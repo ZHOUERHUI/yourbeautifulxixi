@@ -1,2 +1,2 @@
-＃yourbeautifulxixi
-今天，还没吃午饭。
+#yourbeautifulxixi
+let's talking about love.
